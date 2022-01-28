@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I started Learning Linux
+title: Why I Started Learning Linux
 published: true
 ---
 For this post, I will start with taking you back in time to the days of my adolescence. So when I was growing up in the early 2000's, there was a seemingly on-going battle between Windows and Mac...and I grew up in a Windows house. My dad was a staunch Microsoft guy, and he was always raving about how great the "DOS Days" were. Naturally by the time I was old enough to be messing around with a computer of my own(an older desktop that my dad let me setup in my room), I was not using DOS but instead Windows XP. If you ask my father, Windows XP was the supreme Windows OS and it has all gone down ever since...but that's besides the point. I remember growing into being a staunch Microsoft guy myself and I would routinely scoff at those who preferred to use their pretty little Macs(funnily enough I would go on to marry an Apple girl). For me the choice was simple, was I going to use a sleek and pretty but locked down OS like Macintosh? Or would I brave an OS that could be rough around the edges but would give me the freedom to change settings and configurations?(or lets be honest, allow me to play the majority of computer games)I had grown up being sold this bill of goods that Windows was for "the guy who knows what he is doing" and it should be the OS of choice for those who are serious about technology...oh how wrong I was.
