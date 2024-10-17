@@ -26,4 +26,4 @@ The versatility of SDRs makes them an ideal tool for decoding satellite signals,
 
 As SDR technology continues to advance, I look forward to future innovations that will further streamline the process of satellite signal decoding and open up new possibilities for communication systems around the world.
 
-For anyone interested in learning more, the full project report provides in-depth details on the setup, methodologies, and results obtained during my experiments. SDRs have proven to be a game-changing technology, and I hope this post inspires others to explore the field further! ![Report can be downloaded here][{{ site.url }}//ECE_698_Report_WyattRaymond.pdf]
+For anyone interested in learning more, the full project report provides in-depth details on the setup, methodologies, and results obtained during my experiments. SDRs have proven to be a game-changing technology, and I hope this post inspires others to explore the field further! ![Report can be downloaded here]({{ site.url }}//ECE_698_Report_WyattRaymond.pdf)
