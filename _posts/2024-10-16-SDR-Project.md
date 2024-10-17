@@ -9,18 +9,23 @@ Software Defined Radios (SDRs) are communication systems where the signal proces
 SDRs are widely adopted for satellite communication because they allow for decoding signals from a wide variety of satellite systems without needing to replace hardware components. My project focused on receiving signals from both NOAA weather satellites and the BEESAT pico-satellites. Using a low-cost SDR device like the RTL-SDR dongle, I was able to process complex satellite signals, decode telemetry, and generate real-time weather imagery.
 
 ![Gpredict and SDRSharp Software](/images/noaa18may24th.JPG)
+_Gpredict and SDRSharp Software_
 
 The hardware setup for receiving satellite signals was minimal but effective. I used an RTL-SDR Blog V3 dongle connected to a simple dipole antenna. Paired with powerful software like Gpredict for satellite tracking and WxToIMG for decoding, I was able to achieve accurate results in real-time. My experiments took place in a location where I ensured minimal obstructions for optimal signal reception. This simple yet powerful setup demonstrates how SDR technology can be accessible to both hobbyists and professionals.
 
 ![SDR Hardware Setup using RTL-SDR Dongle, Dipole antenna and my laptop](/images/SDR_SETUP.jpg)
+_SDR Hardware Setup using RTL-SDR Dongle, Dipole antenna and my laptop_
 
 The NOAA satellites, which are critical for weather forecasting, employ the Automatic Picture Transmission (APT) system to transmit low-resolution images of the Earth. During the project, I captured APT signals from NOAA 15, 18, and 19 satellites. Using the captured signals, I was able to decode and produce weather images with color overlays and thermal enhancements. SDR technology, coupled with software like SDRSharp and WxToIMG, allowed for seamless decoding of these signals.
 
 ![NOAA 19 Decoded Image](/images/NOAA19_24MAY_1000.jpg)
+_NOAA 19 Decoded Image_
 
 ![NOAA 19 Decoded Image - Color Filter](/images/NOAA19_24MAY_1000_color.jpg)
+_NOAA 19 Decoded Image - Color Filter_
 
 ![NOAA 19 Decoded Image - Thermal Filter](/images/NOAA19_24MAY_1000_thermal.jpg)
+_NOAA 19 Decoded Image - Thermal Filter_
 
 The versatility of SDRs makes them an ideal tool for decoding satellite signals, and the potential applications extend beyond weather forecasting to include space research, environmental monitoring, and educational outreach. My project has shown that, with minimal hardware investment and open-source software, anyone can explore the exciting world of satellite communication.
 
