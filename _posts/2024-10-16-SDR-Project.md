@@ -6,7 +6,7 @@ The world of satellite communication is continually evolving, driven by the need
 
 Software Defined Radios (SDRs) are communication systems where the signal processing is largely handled by software instead of hardware. Unlike traditional radios that require physical components for signal modulation and demodulation, SDRs leverage software flexibility to process various signal types and frequencies. This enables quick adaptation to new satellite protocols, making SDRs especially valuable in the dynamic landscape of satellite communication.
 
-SDRs are widely adopted for satellite communication because they allow for decoding signals from a wide variety of satellite systems without needing to replace hardware components. My project focused on receiving signals from both NOAA weather satellites and the BEESAT pico-satellites. Using a low-cost SDR device like the RTL-SDR dongle, I was able to process complex satellite signals, decode telemetry, and generate real-time weather imagery.
+SDRs are widely adopted for satellite communication because they allow for decoding signals from a wide variety of satellite systems without needing to replace hardware components. My project focused on receiving signals from NOAA weather satellites. Using a low-cost SDR device like the RTL-SDR dongle, I was able to process complex satellite signals, decode telemetry, and generate real-time weather imagery.
 
 ![Gpredict and SDRSharp Software](/images/noaa18may24th.JPG)
 _Gpredict and SDRSharp Software_
