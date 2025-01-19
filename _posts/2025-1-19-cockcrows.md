@@ -17,4 +17,5 @@ By the Grace of God, my wife and I returned to the church about three years into
 Mark 14:66-72
 Revised Standard Version Catholic Edition
 Peter Denies Jesus
+
 66 And as Peter was below in the courtyard, one of the maids of the high priest came; 67 and seeing Peter warming himself, she looked at him, and said, “You also were with the Nazarene, Jesus.” 68 But he denied it, saying, “I neither know nor understand what you mean.” And he went out into the gateway. 69 And the maid saw him, and began again to say to the bystanders, “This man is one of them.” 70 But again he denied it. And after a little while again the bystanders said to Peter, “Certainly you are one of them; for you are a Galilean.” 71 But he began to invoke a curse on himself and to swear, “I do not know this man of whom you speak.” 72 And immediately the cock crowed a second time. And Peter remembered how Jesus had said to him, “Before the cock crows twice, you will deny me three times.” And he broke down and wept.
